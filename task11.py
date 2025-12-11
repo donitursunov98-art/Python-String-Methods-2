@@ -1,5 +1,5 @@
 text = input('text: ')
 
-natija = text.count('a')
+result = text.count('a')
 
-print(natija)
+print(result)
