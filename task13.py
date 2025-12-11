@@ -1,5 +1,5 @@
 user = input('user: ')
 
-natija = user.count('@')
+result = user.count('@')
 
-print(natija)
+print(result)
