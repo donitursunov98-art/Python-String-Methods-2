@@ -1,5 +1,6 @@
-text = input('text: ')
+name = input('Ismingiz: ')
+age = input('Yoshingiz: ')
 
-natija = 'Salom, mening {name}'.format('Diyorbek') 'va yoshim {age}' 
+natija = 'Salom, mening ismim {} va yoshim {}.'.format(name, age)
 
 print(natija)
